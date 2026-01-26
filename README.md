@@ -99,21 +99,23 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ## 🔥 Featured Projects
 
-<!-- Add your best projects here -->
+<!-- Replace the placeholders below with your actual project links and details -->
 
 <div align="center">
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| 🚀 [Project 1](#) | Brief description of your awesome project | `React` `Node.js` `MongoDB` |
-| 💡 [Project 2](#) | Brief description of another great project | `Python` `Django` `PostgreSQL` |
-| 🎨 [Project 3](#) | Brief description of a creative project | `Vue.js` `Express` `Redis` |
+| 🚀 [Project 1](https://github.com/JaberWiki/project1) | Brief description of your awesome project | `React` `Node.js` `MongoDB` |
+| 💡 [Project 2](https://github.com/JaberWiki/project2) | Brief description of another great project | `Python` `Django` `PostgreSQL` |
+| 🎨 [Project 3](https://github.com/JaberWiki/project3) | Brief description of a creative project | `Vue.js` `Express` `Redis` |
 
 </div>
 
 ---
 
 ## 🤝 Connect With Me
+
+<!-- Replace the URLs below with your actual social media profile links -->
 
 <div align="center">
   
