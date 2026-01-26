@@ -108,6 +108,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer" alt="Wave" />
 
 </div>
