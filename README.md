@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>👋 Hi, I'm Jaber</h1>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Jaber
+  </h1>
   <h3>Software Developer | Tech Enthusiast | Problem Solver</h3>
   
   <p>
