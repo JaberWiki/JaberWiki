@@ -69,11 +69,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaberWiki&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaberWiki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaberWiki&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
